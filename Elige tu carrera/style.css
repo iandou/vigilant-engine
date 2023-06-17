@@ -1,0 +1,32 @@
+body {
+  background-image: url(./imagenes/R.jpg);
+  text-align: center;
+  background-size: 100%;
+  background-position-x: center;
+}
+
+#titulo {
+  font-family: "Gasoek One", sans-serif;
+  font-weight: 90;
+  color: green;
+}
+
+#subtitulo {
+  font-family: "Gasoek One", sans-serif;
+  font-family: "Karla", sans-serif;
+  color: #1c6b09;
+}
+
+.aviso {
+  font-family: "Gasoek One", sans-serif;
+  font-family: "Karla", sans-serif;
+  color: #1c6b09;
+}
+
+#boton {
+  background-color: #1c6b09;
+  font-family: "Gasoek One", sans-serif;
+  font-weight: 1;
+  border-radius: 8px;
+  border-style: double;
+}
